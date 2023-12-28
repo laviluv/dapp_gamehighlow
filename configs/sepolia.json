@@ -1,0 +1,11 @@
+{
+    "network": "sepolia",
+    "contract_name": "Gaming",
+    "constructor_arguments": [],
+    "contract_address": "0x9c82047e38f826872B13199A2E6bBFC4A6747137",
+    "owner_mnemonic": "fatigue couch hint credit valid marine tumble crowd page envelope employ jump",
+    "provider": "https://eth-sepolia.g.alchemy.com/v2/dlRe0kMgk1ra8TyAJOF1_t2PDrntoQBr",
+    "owner_key": "0xb2dbff77cc2ab3e36a77cea52bc6b432b65267b290a55151c89097a1157413bd",
+    "owner_address": "0xde22efd1b585525016cd2490135ec0cb8c2d2cdc",
+    "etherscan_key": "SN1AGUSM7SX1EWDHB866AHF89XXKYJXH39"
+}

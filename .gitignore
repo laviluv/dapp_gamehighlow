@@ -8,5 +8,5 @@ blockscout
 # Hardhat files
 cache
 artifacts
-configs/*
+#configs/*
 !configs/example.json
