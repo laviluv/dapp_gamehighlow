@@ -11,7 +11,7 @@
     "explorer:start": "cd blockscout/docker-compose && docker-compose -f docker-compose-no-build-hardhat-network.yml up -d",
     "explorer:stop": "cd blockscout/docker-compose && docker-compose -f docker-compose-no-build-hardhat-network.yml down"
   },
-  "author": "Sebastiano Cataudo <sebastiano@niftyz.io>",
+  "author": "Lavi <uplinked.110mb@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.2.3",
