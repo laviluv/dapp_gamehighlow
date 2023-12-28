@@ -1,6 +1,10 @@
-# Solidity Smart Contract boilerplate based on HardHat
+# Solidity Smart Contract dApp based on HardHat
 
-With this boilerplate you'll be able to create even more automations than standard hardhat example, we'll added also the possibility to add a block explorer by running Blockscout using Docker.
+This project is implementing smart contracts based on Solidity to create a game of high and lows, where the user is expected to provide a number and the contract then validates the match with it's own mystery number, randomly generated.
+
+This project is meant to be a stepping stone to a more advanced project later on.
+
+The possibility to add an additional block explorer by running Blockscout using Docker will be tested later on, as it might have been a node version issue (i was using v 16 instead of 18 during the previous attempt).
 
 ## Requirements
 
